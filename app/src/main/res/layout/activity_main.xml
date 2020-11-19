@@ -11,3 +11,4 @@
         android:name="com.sunnyweather.android.ui.place.PlaceFragment"/>
 
 </FrameLayout>
+
